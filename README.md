@@ -4,14 +4,14 @@ Social Media Application Web APIs
 
 #### Functionalities and Features
 
-• A user can create account
-• User can only login after verification of the email
-• A JSON web token is assigned to every user on successfull login
-• Signed in user can create a post
-• Posts can be public, private or only for friends
-• User can change visibility of their posts
-• User can search, edit or delete their posts
-• User can send friend requests to other users
-• User can remove their friends
-• Friends can comment on posts
-• Email is sent to the user when a comment is posted on their post.
+• A user can create account <br>
+• User can only login after verification of the email <br>
+• A JSON web token is assigned to every user on successfull login <br>
+• Signed in user can create a post <br>
+• Posts can be public, private or only for friends <br>
+• User can change visibility of their posts <br>
+• User can search, edit or delete their posts <br>
+• User can send friend requests to other users <br>
+• User can remove their friends <br>
+• Friends can comment on posts <br>
+• Email is sent to the user when a comment is posted on their post. <br>
