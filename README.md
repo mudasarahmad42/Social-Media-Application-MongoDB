@@ -4,7 +4,7 @@ Social Media Application Web APIs
 
 #### Functionalities and Features
 
-• A user can create account <br>
+• A user can create a account <br>
 • User can only login after verification of the email <br>
 • A JSON web token is assigned to every user on successfull login <br>
 • Signed in user can create a post <br>
