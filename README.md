@@ -1,6 +1,7 @@
+<center>
 <img src="laravel.png" width="45%" /> 
 <img src="mongo.png" width="45%" /> 
-
+</center>
 Social Media Application Web APIs
 
 #### Functionalities and Features
